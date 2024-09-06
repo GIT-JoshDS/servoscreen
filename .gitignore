@@ -1,4 +1,5 @@
 /source/dist/
 /source/build/
-/venv/
+/.venv/
 /collected logs for debugging/
+*.spec
